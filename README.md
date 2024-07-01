@@ -32,7 +32,7 @@ To get started with Hawai Yatra, follow these steps:
 ```nodemon index.js```
 9. Make sure to setup your own .env file
 
-## envirnment-variables-format
+## Environment-variables-format
 
 RAZORPAY KEY ID = ""
 
