@@ -34,12 +34,19 @@ To get started with Hawai Yatra, follow these steps:
 
 ![envirnment-variables-format]
 RAZORPAY KEY ID = ""
+
 RAZORPAY KEY SECRET = ""
+
 MONGODB URI = ""
+
 MONGODB URI ANOTHER = ""
+
 MONGODB URI ADMIN = ""
+
 ADMIN_EMAIL = "admin@Hawai_Yatra.com"
+
 PASSWORD = "testpassword"
+
 URI = ""
 
 
